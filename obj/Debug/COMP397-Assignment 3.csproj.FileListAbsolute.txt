@@ -1,0 +1,6 @@
+D:\Sem 4\Game programming\COMP397-Assignment 3\COMP397-Assignment 3\bin\COMP397-Lesson02-Part2.dll.config
+D:\Sem 4\Game programming\COMP397-Assignment 3\COMP397-Assignment 3\bin\COMP397-Lesson02-Part2.dll
+D:\Sem 4\Game programming\COMP397-Assignment 3\COMP397-Assignment 3\bin\COMP397-Lesson02-Part2.pdb
+D:\Sem 4\Game programming\COMP397-Assignment 3\COMP397-Assignment 3\obj\Debug\COMP397-Assignment 3.csprojResolveAssemblyReference.cache
+D:\Sem 4\Game programming\COMP397-Assignment 3\COMP397-Assignment 3\obj\Debug\COMP397-Lesson02-Part2.dll
+D:\Sem 4\Game programming\COMP397-Assignment 3\COMP397-Assignment 3\obj\Debug\COMP397-Lesson02-Part2.pdb
